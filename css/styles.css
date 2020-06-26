@@ -1,0 +1,74 @@
+* {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.container-title {
+  text-align: center;
+  font-size: 22px;
+  margin: 50px;
+}
+
+.title-decoration {
+  color: #2a83e8;
+  font-weight: bold;
+}
+
+.btn-download {
+  background-color: black;
+  border-radius: 70px;
+  height: 48px;
+  width: 251px;
+  font-size: 19px;
+  color: white;
+}
+
+.container-video {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.container-buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 50px;
+  margin: 10px;
+}
+
+.container-buttons .icon {
+  padding-right: 10px;
+}
+
+.container-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 10px;
+}
+
+.card .card-img {
+  width: 100px;
+}
+/*# sourceMappingURL=styles.css.map */
