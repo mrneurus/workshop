@@ -1,0 +1,49 @@
+*{
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+.container-title{
+    text-align: center;    
+    font-size: 22px;
+    margin: 50px;
+}
+.title-decoration{
+    color: #2a83e8;
+    font-weight: bold;
+}
+
+.btn-download{
+    background-color: black;
+    border-radius: 70px;
+    height: 48px;
+    width: 251px;
+    font-size: 19px;
+    color: white;
+}
+.container-video{
+    display: flex;
+    justify-content: center;
+}
+.container-buttons{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    .icon{
+        padding-right: 10px;
+    }
+    margin: 10px;
+}
+
+.container-card{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    .card-img{
+        width: 100px;
+    }
+}
